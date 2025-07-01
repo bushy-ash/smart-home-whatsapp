@@ -1,0 +1,13 @@
+list of Components
+
+
+NodeMCU ESP8266
+4-Channel Relay Module
+DHT11 Temperature Sensor
+Breadboard
+SMPS / AC to DC Converter
+Jumper Wires (Male/Male, Male/Female)
+USB Cable
+Smartphone with WhatsApp
+Wi-Fi Router
+Household Devices (Lights, Fans)
